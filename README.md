@@ -21,10 +21,3 @@ Let's get to it
 - 🏘️ [House Price Prediction](https://github.com/gpozzi/machine-learning/tree/master/acamica-data-scientist/house_price_prediction): I have recently joined the Data team of a large real estate company. The first task assigned is to help appraisers value properties, as it's a difficult and sometimes subjective process. To do this, I should develop a Machine Learning model that, given certain characteristics of the property, predicts its sale price. `Preprocessing` `Seaborn` `Matplotlib` `LinearRegression` `KNeighborsRegression` `DecisionTreeRegressor` `Hyperparameter Tuning`
 
 - ♻️ [Energy saved from recycling](https://github.com/gpozzi/python-analytics-projects/tree/main/energy_saved): Data cleaning and wrangling project, in which I had to clearly display how much energy the Singapore government saved by implementing recycling policies. `Python` `Data cleaning` `Data wrangling` `Pandas` 
-
-
-# THE END
-
-It was long but it was worth it
-
-<img src="https://c.tenor.com/7dwqTvxFD1kAAAAC/michael-scott-the-office.gif" height="300" style="vertical-align:top; margin:4px">
