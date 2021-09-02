@@ -22,6 +22,9 @@ Let's get to it
 
 - ♻️ [Energy saved from recycling](https://github.com/gpozzi/python-analytics-projects/tree/main/energy_saved): Data cleaning and wrangling project, in which I had to clearly display how much energy the Singapore government saved by implementing recycling policies. `Python` `Data cleaning` `Data wrangling` `Pandas` 
 
+
+# THE END
+
 It was long but it was worth it
 
 <img src="https://c.tenor.com/7dwqTvxFD1kAAAAC/michael-scott-the-office.gif" height="300" style="vertical-align:top; margin:4px">
