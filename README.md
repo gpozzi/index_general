@@ -12,13 +12,13 @@ Let's get to it
 
 - 🏅 [#mavenolympicschallenge](https://github.com/gpozzi/data-visualization/tree/main/olympics-dashboard): Given a dataset with 271.116 athletes that participated into different Olympics editions from Athens 1896 to Rio 2016, I developed a dashboard to capture the history of the Olympic Games. `Dataviz` `Tableau` `Figma`.
 
+- 🚀 [Rocket launches, a best value analysis](https://github.com/gpozzi/python-analytics-projects/tree/main/space_launches): Data cleaning and wrangling project in which I applied transformation and data cleaning techniques to a messy dataset to detect which countries able to launch rockets have the lowest average price per kilo that can launch rockets into Low Earth Orbit
+
 - 👔 [Dillards](https://github.com/gpozzi/sql-projects/tree/main/managing-big-data-with-sql/dillards): exploratory data analysis queries to figure out relevant data about Dillard's sales dataset.`Teradata` `Exploratory Data Analysis`
 
 - 💰 [#mavencrowdfundingchallenge](https://github.com/gpozzi/data-visualization/tree/main/crowdfunding): Given a dataset with over 375.000 projects uploaded to Kickstarter, had to analyze which factors may predict projects success. `Dataviz` `Tableau`
 
 - 🏘️ [House Price Prediction](https://github.com/gpozzi/machine-learning/tree/master/acamica-data-scientist/house_price_prediction): I have recently joined the Data team of a large real estate company. The first task assigned is to help appraisers value properties, as it's a difficult and sometimes subjective process. To do this, I should develop a Machine Learning model that, given certain characteristics of the property, predicts its sale price. `Preprocessing` `Seaborn` `Matplotlib` `LinearRegression` `KNeighborsRegression` `DecisionTreeRegressor` `Hyperparameter Tuning`
-
-- 🚀 [Rocket launches, a best value analysis](https://github.com/gpozzi/python-analytics-projects/tree/main/space_launches): Data cleaning and wrangling project in which I applied transformation and data cleaning techniques to a messy dataset to detect which countries able to launch rockets have the lowest average price per kilo that can launch rockets into Low Earth Orbit
 
 - ♻️ [Energy saved from recycling](https://github.com/gpozzi/python-analytics-projects/tree/main/energy_saved): Data cleaning and wrangling project, in which I had to clearly display how much energy the Singapore government saved by implementing recycling policies. `Python` `Data cleaning` `Data wrangling` `Pandas` 
 
