@@ -8,7 +8,7 @@ Let's get to it
 
 - 💬 [NLP](https://github.com/gpozzi/machine-learning/tree/master/acamica-data-scientist/nlp): The goal of this project is to be able to predict the score that a user would set given a review by using an Amazon dataset that contained reviews about different products. `Stopwords removal` `Stemming` `Lemmatization` `Seaborn` `Matplotlib` `Wordcloud` `Tf-Idf` `GaussianNB` `Random Forest` `LinearSVC` `GridsearchCV`
 
-- 🐶 [Dognition](https://github.com/gpozzi/sql-projects/tree/main/managing-big-data-with-sql/dognition): Dognition is a company that sells dogs personality tests. The goal of this business case is to figure out what changes it could implement to increase the number of tests users complete on their website. `MySQL` `Exploratory Data Analysis`
+- 🐶 [Dognition](https://github.com/gpozzi/sql-projects/tree/main/managing-big-data-with-sql/dognition): MySQL scripts that query a database of a company that sells dogs personality tests. A thorough data exploration has been performed to figure out what business changes it could implement to increase the number of tests users complete on their website. `MySQL` `Exploratory Data Analysis`
 
 - 🏅 [#mavenolympicschallenge](https://github.com/gpozzi/data-visualization/tree/main/olympics-dashboard): Given a dataset with 271.116 athletes that participated into different Olympics editions from Athens 1896 to Rio 2016, I developed a dashboard to capture the history of the Olympic Games. `Dataviz` `Tableau` `Figma`.
 
