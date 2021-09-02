@@ -4,4 +4,4 @@ Below, I'll be posting every portfolio project done to hone my data skills and t
 
 Let's get to it
 
-![image](https://user-images.githubusercontent.com/52865532/131762251-82719b3d-923a-443d-a503-77207a1a4b63.png)
+![image](https://media0.giphy.com/media/cXblnKXr2BQOaYnTni/giphy.gif?cid=ecf05e475emw2byw7xv3ki3yjkkg0j4owzrm80yi2xit81mq&rid=giphy.gif)
