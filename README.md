@@ -1,6 +1,6 @@
-# Gonzalo Pozzi's Portfolio index page
+# My portfolio index page
 
-Below, I'll be posting every portfolio project done to hone my data skills and to showcase what I've learned
+Below, I'll be posting every portfolio project I've done to hone my data skills and to showcase what I've learned
 
 Let's get to it
 
