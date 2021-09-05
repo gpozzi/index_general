@@ -12,7 +12,7 @@ Let's get to it
 
 - 🏅 [#mavenolympicschallenge](https://github.com/gpozzi/data-visualization/tree/main/olympics-dashboard): Given a dataset with 271.116 athletes that participated into different Olympics editions from Athens 1896 to Rio 2016, I developed a dashboard to capture the history of the Olympic Games. `Dataviz` `Tableau` `Figma`.
 
-- 🚀 [Rocket launches, a best value analysis](https://github.com/gpozzi/python-analytics-projects/tree/main/space_launches): Data cleaning and wrangling project in which I applied transformation and data cleaning techniques to a messy dataset to detect which countries able to launch rockets have the lowest average price per kilo that can launch rockets into Low Earth Orbit
+- 🚀 [Rocket launches, a best value analysis](https://github.com/gpozzi/python-analytics-projects/tree/main/space_launches): Data cleaning and wrangling project in which I applied transformation and data cleaning techniques to a messy dataset to detect which countries able to launch rockets have the lowest average price per kilo that can launch rockets into Low Earth Orbit `Python` `Data cleaning` `Data wrangling` `Pandas`
 
 - 👔 [Dillards](https://github.com/gpozzi/sql-projects/tree/main/managing-big-data-with-sql/dillards): exploratory data analysis queries to figure out relevant data about Dillard's sales dataset.`Teradata` `Exploratory Data Analysis`
 
