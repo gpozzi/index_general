@@ -1,6 +1,6 @@
 # My portfolio index page
 
-Below, I'll be posting every portfolio project I've done to hone my data skills and to showcase what I've learned
+Below, I'll be posting the best portfolio project I've done to hone my data skills:
 
 Let's get to it
 
