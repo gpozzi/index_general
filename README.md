@@ -14,7 +14,7 @@ Let's get to it
 
 - 🚀 [Rocket launches, a best value analysis](https://github.com/gpozzi/python-analytics-projects/tree/main/space_launches): Data cleaning and wrangling project in which I applied transformation and data cleaning techniques to a messy dataset to detect which countries able to launch rockets have the lowest average price per kilo that can launch rockets into Low Earth Orbit `Python` `Data cleaning` `Data wrangling` `Pandas`
 
-- 👔 [Dillards](https://github.com/gpozzi/sql-projects/tree/main/managing-big-data-with-sql/dillards): exploratory data analysis queries to figure out relevant data about Dillard's sales dataset.`Teradata` `Exploratory Data Analysis`
+- 👔 [Dillards](https://github.com/gpozzi/sql-projects/tree/main/managing-big-data-with-sql/dillards): exploratory data analysis queries to figure out relevant data about Dillard's sales dataset. `SQL` `Teradata Viewpoint` `Exploratory Data Analysis`
 
 - 💰 [#mavencrowdfundingchallenge](https://github.com/gpozzi/data-visualization/tree/main/crowdfunding): Given a dataset with over 375.000 projects uploaded to Kickstarter, had to analyze which factors may predict projects success. `Dataviz` `Tableau`
 
