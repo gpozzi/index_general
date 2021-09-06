@@ -6,7 +6,7 @@ Let's get to it
 
 <img src="https://media0.giphy.com/media/cXblnKXr2BQOaYnTni/giphy.gif" height="300" style="vertical-align:top; margin:4px">
 
-- 💬 [NLP](https://github.com/gpozzi/machine-learning/tree/master/acamica-data-scientist/nlp): The goal of this project is to be able to predict the score that a user would set given a review by using an Amazon dataset that contained reviews about different products. `Python` `Exploratory Data Analysis` `Stemming` `Lemmatization` `Seaborn` `Matplotlib` `Wordcloud` `Tf-Idf` `GaussianNB` `Random Forest` `LinearSVC` `GridsearchCV`
+- 💬 [NLP](https://github.com/gpozzi/machine-learning/tree/master/acamica-data-scientist/nlp): The goal of this project is to be able to predict the score that a user would set given a review by using an Amazon dataset that contained reviews about different products. `Python` `Supervised Machine Learning: classification` `Exploratory Data Analysis` `Stemming` `Lemmatization` `Seaborn` `Matplotlib` `Wordcloud` `Tf-Idf` `GaussianNB` `Random Forest` `LinearSVC` `GridsearchCV`
 
 - 🐶 [Dognition](https://github.com/gpozzi/sql-projects/tree/main/managing-big-data-with-sql/dognition): MySQL scripts that query a database of a company that sells dogs personality tests. A thorough data exploration has been performed to figure out what business changes it could implement to increase the number of tests users complete on their website. `MySQL` `Exploratory Data Analysis`
 
@@ -18,6 +18,6 @@ Let's get to it
 
 - 💰 [#mavencrowdfundingchallenge](https://github.com/gpozzi/data-visualization/tree/main/crowdfunding): Given a dataset with over 375.000 projects uploaded to Kickstarter, had to analyze which factors may predict projects success. `Dataviz` `Tableau`
 
-- 🏘️ [House Price Prediction](https://github.com/gpozzi/machine-learning/tree/master/acamica-data-scientist/house_price_prediction): I have recently joined the Data team of a large real estate company. The first task assigned is to help appraisers value properties, as it's a difficult and sometimes subjective process. To do this, I should develop a Machine Learning model that, given certain characteristics of the property, predicts its sale price. `Python` `Exploratory Data Analysis` `Preprocessing` `Seaborn` `Matplotlib` `LinearRegression` `KNeighborsRegression` `DecisionTreeRegressor` `Hyperparameter Tuning`
+- 🏘️ [House Price Prediction](https://github.com/gpozzi/machine-learning/tree/master/acamica-data-scientist/house_price_prediction): I have recently joined the Data team of a large real estate company. The first task assigned is to help appraisers value properties, as it's a difficult and sometimes subjective process. To do this, I should develop a Machine Learning model that, given certain characteristics of the property, predicts its sale price. **`Python`** **`Supervised Machine Learning: classification`** `Exploratory Data Analysis` `Preprocessing` `Seaborn` `Matplotlib` `LinearRegression` `KNeighborsRegression` `DecisionTreeRegressor` `Hyperparameter Tuning`
 
 - ♻️ [Energy saved from recycling](https://github.com/gpozzi/python-analytics-projects/tree/main/energy_saved): Data cleaning and wrangling project, in which I had to clearly display how much energy the Singapore government saved by implementing recycling policies. `Python` `Data cleaning` `Data wrangling` `Pandas` 
