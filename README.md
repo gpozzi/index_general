@@ -6,7 +6,7 @@ Let's get to it
 
 <img src="https://media0.giphy.com/media/cXblnKXr2BQOaYnTni/giphy.gif" height="300" style="vertical-align:top; margin:4px">
 
-- 💬 **[NLP (WIP)](https://github.com/gpozzi/machine-learning/tree/master/acamica-data-scientist/nlp)**: The goal of this project is to be able to predict the score that a user would set given a review by using an Amazon dataset that contained reviews about different products. **`Python`** **`Supervised Machine Learning: classification`** **`Exploratory Data Analysis`** **`Stemming`** **`Lemmatization`** **`Seaborn`** **`Matplotlib`** **`Wordcloud`** **`Tf-Idf`** **`GaussianNB`** **`Random Forest`** **`LinearSVC`** **`GridsearchCV`**
+- 💬 **[NLP](https://github.com/gpozzi/machine-learning/tree/master/acamica-data-scientist/nlp)**: The goal of this project is to be able to predict the score that a user would set given a review by using an Amazon dataset that contained reviews about different products. **`Python`** **`Supervised Machine Learning: classification`** **`Exploratory Data Analysis`** **`Stemming`** **`Lemmatization`** **`Seaborn`** **`Matplotlib`** **`Wordcloud`** **`Tf-Idf`** **`GaussianNB`** **`Random Forest`** **`LinearSVC`** **`GridsearchCV`**
 
 - 🐶 **[Dognition](https://github.com/gpozzi/sql-projects/tree/main/managing-big-data-with-sql/dognition)**: MySQL scripts that query a database of a company that sells dogs personality tests. A thorough data exploration has been performed to figure out what business changes it could implement to increase the number of tests users complete on their website. **`MySQL`** **`Exploratory Data Analysis`**
 
